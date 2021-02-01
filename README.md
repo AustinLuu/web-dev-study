@@ -10,7 +10,7 @@
 - [⭐The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw/undefined) — Live Coding & Challenges
 - [⭐The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass
 - [⭐Traversy Media](https://www.youtube.com/user/TechGuyWeb) — Javascript, PHP, CSS , All Around
-- [⭐Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, Command Line, Flexbox, Sublime Text, Javascript, Tips
+- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, Command Line, Flexbox, Sublime Text, Javascript, Tips
 - [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) — FrontEnd + Android
 - [Alessandro Castellani](https://www.youtube.com/channel/UCbmBY_XYZqCa2G0XmFA7ZWg) — Wordpress
 - [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ) — Javascript Frameworks
